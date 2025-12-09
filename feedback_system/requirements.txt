@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+openai
+python-dotenv
+sqlalchemy
+aiosqlite
+pytest
+pytest-asyncio
+httpx
+greenlet
+torch
+transformers
+sentencepiece
+rich
